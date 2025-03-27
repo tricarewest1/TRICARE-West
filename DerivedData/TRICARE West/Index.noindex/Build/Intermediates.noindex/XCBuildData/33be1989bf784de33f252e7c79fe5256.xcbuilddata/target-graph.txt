@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'TRICARE West' in project 'TRICARE West' (no dependencies)
+Target 'TRICARE West' in project 'TRICARE West' (no dependencies)

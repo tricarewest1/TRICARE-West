@@ -1,0 +1,65 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Products/Release-iphonesimulator/TRICARE West.app/TRICARE West'
+relocations:
+  - { offset: 0x7EE4C, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP04makeG07context0G4TypeQzAD0gH7ContextVyxG_tFTW', symObjAddr: 0x0, symBinAddr: 0x100004818, symSize: 0xD0 }
+  - { offset: 0x7F038, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11CoordinatorCMa', symObjAddr: 0x794, symBinAddr: 0x100004FAC, symSize: 0x20 }
+  - { offset: 0x7F04C, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11ContentViewVMa', symObjAddr: 0x7B4, symBinAddr: 0x100004FCC, symSize: 0x10 }
+  - { offset: 0x7F060, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11ContentViewV7SwiftUI0D0AA4BodyAdEP_AGWT', symObjAddr: 0x7C4, symBinAddr: 0x100004FDC, symSize: 0x10 }
+  - { offset: 0x7F074, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x7D4, symBinAddr: 0x100004FEC, symSize: 0x40 }
+  - { offset: 0x7F088, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI6VStackVyAA15ModifiedContentVy12TRICARE_West7WebViewVAA16_FlexFrameLayoutVGGWOc', symObjAddr: 0x814, symBinAddr: 0x10000502C, symSize: 0x48 }
+  - { offset: 0x7F09C, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI6VStackVyAA15ModifiedContentVy12TRICARE_West7WebViewVAA16_FlexFrameLayoutVGGWOh', symObjAddr: 0x85C, symBinAddr: 0x100005074, symSize: 0x40 }
+  - { offset: 0x7F0B0, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVMa', symObjAddr: 0x89C, symBinAddr: 0x1000050B4, symSize: 0x3C }
+  - { offset: 0x7F0C4, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVWOh', symObjAddr: 0x8D8, symBinAddr: 0x1000050F0, symSize: 0x3C }
+  - { offset: 0x7F0D8, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI15ModifiedContentVy12TRICARE_West7WebViewVAA16_FlexFrameLayoutVGWOb', symObjAddr: 0x914, symBinAddr: 0x10000512C, symSize: 0x48 }
+  - { offset: 0x7F0EC, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVWOc', symObjAddr: 0x95C, symBinAddr: 0x100005174, symSize: 0x44 }
+  - { offset: 0x7F100, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVwCP', symObjAddr: 0x9A0, symBinAddr: 0x1000051B8, symSize: 0x3C }
+  - { offset: 0x7F114, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVwxx', symObjAddr: 0x9DC, symBinAddr: 0x1000051F4, symSize: 0x34 }
+  - { offset: 0x7F128, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVwcp', symObjAddr: 0xA10, symBinAddr: 0x100005228, symSize: 0x44 }
+  - { offset: 0x7F13C, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVwca', symObjAddr: 0xA54, symBinAddr: 0x10000526C, symSize: 0x44 }
+  - { offset: 0x7F150, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVwtk', symObjAddr: 0xA98, symBinAddr: 0x1000052B0, symSize: 0x44 }
+  - { offset: 0x7F164, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVwta', symObjAddr: 0xADC, symBinAddr: 0x1000052F4, symSize: 0x44 }
+  - { offset: 0x7F178, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVwet', symObjAddr: 0xB20, symBinAddr: 0x100005338, symSize: 0xC }
+  - { offset: 0x7F18C, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVwst', symObjAddr: 0xB68, symBinAddr: 0x100005380, symSize: 0xC }
+  - { offset: 0x7F1A0, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewVMr', symObjAddr: 0xBB4, symBinAddr: 0x1000053CC, symSize: 0x68 }
+  - { offset: 0x7F1B4, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI15ModifiedContentVyAA6VStackVyACy12TRICARE_West7WebViewVAA16_FlexFrameLayoutVGGAA08_PaddingL0VGACyxq_GAA0I0A2aQRzAA0I8ModifierR_rlWl', symObjAddr: 0xC20, symBinAddr: 0x100005438, symSize: 0x6C }
+  - { offset: 0x7F1C8, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstract, symObjAddr: 0xC8C, symBinAddr: 0x1000054A4, symSize: 0x44 }
+  - { offset: 0x7F1DC, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI6VStackVyAA15ModifiedContentVy12TRICARE_West7WebViewVAA16_FlexFrameLayoutVGGACyxGAA0I0AAWl', symObjAddr: 0xCD0, symBinAddr: 0x1000054E8, symSize: 0x4C }
+  - { offset: 0x7F1F0, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI0D0AA4BodyAdEP_AGWT', symObjAddr: 0xD1C, symBinAddr: 0x100005534, symSize: 0xC }
+  - { offset: 0x7F204, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAaD0D0PWb', symObjAddr: 0xD28, symBinAddr: 0x100005540, symSize: 0x24 }
+  - { offset: 0x7F254, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP09dismantleG0_11coordinatory0G4TypeQz_11CoordinatorQztFZTW', symObjAddr: 0x1C8, symBinAddr: 0x1000049E0, symSize: 0x4 }
+  - { offset: 0x7F270, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP15makeCoordinator0J0QzyFTW', symObjAddr: 0x1CC, symBinAddr: 0x1000049E4, symSize: 0x4 }
+  - { offset: 0x7F28C, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP011_identifiedD4Tree2inAD011_IdentifieddJ0O0G4TypeQz_tFTW', symObjAddr: 0x1D0, symBinAddr: 0x1000049E8, symSize: 0x4 }
+  - { offset: 0x7F2A8, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP12sizeThatFits_02uiD07contextSo6CGSizeVSgAD08ProposedD4SizeV_0G4TypeQzAD0gH7ContextVyxGtFTW', symObjAddr: 0x1D4, symBinAddr: 0x1000049EC, symSize: 0x30 }
+  - { offset: 0x7F2C4, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP21_overrideSizeThatFits_2in02uiD0ySo6CGSizeVz_AD09_ProposedJ0V0G4TypeQztFTW', symObjAddr: 0x204, symBinAddr: 0x100004A1C, symSize: 0x4 }
+  - { offset: 0x7F2E0, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP21_overrideLayoutTraits_3foryAD01_jK0Vz_0G4TypeQztFTW', symObjAddr: 0x208, symBinAddr: 0x100004A20, symSize: 0x4 }
+  - { offset: 0x7F2FC, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP014_modifyBridgedD6InputsyyAD01_dK0VzFZTW', symObjAddr: 0x20C, symBinAddr: 0x100004A24, symSize: 0x4 }
+  - { offset: 0x7F318, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP14_layoutOptionsyAD09_Platformdh6LayoutJ0V0G4TypeQzFZTW', symObjAddr: 0x210, symBinAddr: 0x100004A28, symSize: 0x14 }
+  - { offset: 0x7F334, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI0D0AadEP05_makeD04view6inputsAD01_D7OutputsVAD11_GraphValueVyxG_AD01_D6InputsVtFZTW', symObjAddr: 0x224, symBinAddr: 0x100004A3C, symSize: 0x60 }
+  - { offset: 0x7F350, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI0D0AadEP05_makeD4List4view6inputsAD01_dH7OutputsVAD11_GraphValueVyxG_AD01_dH6InputsVtFZTW', symObjAddr: 0x284, symBinAddr: 0x100004A9C, symSize: 0x60 }
+  - { offset: 0x7F36C, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI0D0AadEP4body4BodyQzvgTW', symObjAddr: 0x2E4, symBinAddr: 0x100004AFC, symSize: 0x34 }
+  - { offset: 0x7F3DA, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP04makeG07context0G4TypeQzAD0gH7ContextVyxG_tFTW', symObjAddr: 0x0, symBinAddr: 0x100004818, symSize: 0xD0 }
+  - { offset: 0x7F4A7, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West7WebViewV7SwiftUI19UIViewRepresentableAadEP06updateG0_7contexty0G4TypeQz_AD0gH7ContextVyxGtFTW', symObjAddr: 0xD0, symBinAddr: 0x1000048E8, symSize: 0xF8 }
+  - { offset: 0x7F53D, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4ViewPAAE5frame8minWidth05idealF003maxF00E6Height0gI00hI09alignmentQr12CoreGraphics7CGFloatVSg_A5oA9AlignmentVtF12TRICARE_West03WebC0V_Tg5', symObjAddr: 0x48C, symBinAddr: 0x100004CA4, symSize: 0x1B8 }
+  - { offset: 0x7F583, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11ContentViewV7SwiftUI0D0AadEP05_makeD04view6inputsAD01_D7OutputsVAD11_GraphValueVyxG_AD01_D6InputsVtFZTW', symObjAddr: 0x644, symBinAddr: 0x100004E5C, symSize: 0x4 }
+  - { offset: 0x7F59F, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11ContentViewV7SwiftUI0D0AadEP05_makeD4List4view6inputsAD01_dH7OutputsVAD11_GraphValueVyxG_AD01_dH6InputsVtFZTW', symObjAddr: 0x648, symBinAddr: 0x100004E60, symSize: 0x4 }
+  - { offset: 0x7F5BB, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11ContentViewV7SwiftUI0D0AadEP14_viewListCount6inputsSiSgAD01_dhI6InputsV_tFZTW', symObjAddr: 0x64C, symBinAddr: 0x100004E64, symSize: 0x18 }
+  - { offset: 0x7F672, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11ContentViewV4bodyQrvg7SwiftUI0D0PAEE5frame8minWidth05idealJ003maxJ00I6Height0kM00lM09alignmentQr12CoreGraphics7CGFloatVSg_A5sE9AlignmentVtFQOyAA03WebD0V_Qo_yXEfU_', symObjAddr: 0x318, symBinAddr: 0x100004B30, symSize: 0x174 }
+  - { offset: 0x7F725, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11ContentViewV7SwiftUI0D0AadEP4body4BodyQzvgTW', symObjAddr: 0x664, symBinAddr: 0x100004E7C, symSize: 0xBC }
+  - { offset: 0x7F816, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11CoordinatorC14viewForZooming2inSo6UIViewCSgSo12UIScrollViewC_tFTo', symObjAddr: 0x720, symBinAddr: 0x100004F38, symSize: 0x8 }
+  - { offset: 0x7F843, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11CoordinatorCACycfcTo', symObjAddr: 0x728, symBinAddr: 0x100004F40, symSize: 0x3C }
+  - { offset: 0x7F878, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11CoordinatorCfD', symObjAddr: 0x764, symBinAddr: 0x100004F7C, symSize: 0x30 }
+  - { offset: 0x7F970, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West0a1_B3AppV4bodyQrvg', symObjAddr: 0x0, symBinAddr: 0x1000055A8, symSize: 0x148 }
+  - { offset: 0x7FA2D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x154, symBinAddr: 0x1000056F8, symSize: 0x34 }
+  - { offset: 0x7FA61, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West0a1_B3AppVAC7SwiftUI0C0AAWl', symObjAddr: 0x188, symBinAddr: 0x10000572C, symSize: 0x44 }
+  - { offset: 0x7FA75, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West0a1_B3AppVMa', symObjAddr: 0x1CC, symBinAddr: 0x100005770, symSize: 0x10 }
+  - { offset: 0x7FA89, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West0a1_B3AppV7SwiftUI0C0AA4BodyAdEP_AD5ScenePWT', symObjAddr: 0x1DC, symBinAddr: 0x100005780, symSize: 0x10 }
+  - { offset: 0x7FA9D, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West11ContentViewVAC7SwiftUI0D0AAWl', symObjAddr: 0x22C, symBinAddr: 0x100005790, symSize: 0x44 }
+  - { offset: 0x7FAB1, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI11WindowGroupVy12TRICARE_West11ContentViewVGACyxGAA5SceneAAWl', symObjAddr: 0x270, symBinAddr: 0x1000057D4, symSize: 0x4C }
+  - { offset: 0x7FAEC, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West0a1_B3AppV4bodyQrvg', symObjAddr: 0x0, symBinAddr: 0x1000055A8, symSize: 0x148 }
+  - { offset: 0x7FB4C, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West0a1_B3AppV4bodyQrvgAA11ContentViewVycfU_', symObjAddr: 0x148, symBinAddr: 0x1000056F0, symSize: 0x4 }
+  - { offset: 0x7FB74, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West0a1_B3AppV7SwiftUI0C0AadEP4body4BodyQzvgTW', symObjAddr: 0x14C, symBinAddr: 0x1000056F4, symSize: 0x4 }
+  - { offset: 0x7FC98, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West19ResourceBundleClass33_00122012B243766B8D809015850D0D9DLLCfD', symObjAddr: 0x0, symBinAddr: 0x100005824, symSize: 0x10 }
+  - { offset: 0x7FCDA, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West19ResourceBundleClass33_00122012B243766B8D809015850D0D9DLLCMa', symObjAddr: 0x10, symBinAddr: 0x100005834, symSize: 0x20 }
+  - { offset: 0x7FCF5, size: 0x8, addend: 0x0, symName: '_$s12TRICARE_West19ResourceBundleClass33_00122012B243766B8D809015850D0D9DLLCfD', symObjAddr: 0x0, symBinAddr: 0x100005824, symSize: 0x10 }
+...

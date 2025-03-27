@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master.d",
+    "diagnostics" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master.dia",
+    "emit-module-dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master.swiftdeps"
+  },
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphonesimulator/TRICARE West.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/TRICARE West/ContentView.swift" : {
+
+  },
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/TRICARE West/TRICARE_WestApp.swift" : {
+
+  }
+}

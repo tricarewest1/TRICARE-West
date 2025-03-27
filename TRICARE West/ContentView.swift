@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  TRICARE West
-//
-//  Created by Bryan Marosch on 1/14/25.
-//
-
 import SwiftUI
 import WebKit
 
@@ -12,7 +5,11 @@ struct WebView: UIViewRepresentable {
     let url: URL
 
     func makeUIView(context: Context) -> WKWebView {
-        return WKWebView()
+        let webView = WKWebView()
+        webView.scrollView.isScrollEnabled = true
+        webView.scrollView.minimumZoomScale = 1.0
+        webView.scrollView.maximumZoomScale = 1.0
+        return webView
     }
 
     func updateUIView(_ uiView: WKWebView, context: Context) {
@@ -24,7 +21,7 @@ struct WebView: UIViewRepresentable {
 struct ContentView: View {
     var body: some View {
         VStack {
-            WebView(url: URL(string: "https://tricare-west-mobile-q2.powerappsportals.us/")!)
+            WebView(url: URL(string: "https://tricare-west-mobile-np3.high.powerappsportals.us/")!)
                 .frame(maxHeight: .infinity)
         }
         .padding()
@@ -33,4 +30,13 @@ struct ContentView: View {
 
 #Preview {
     ContentView()
+}
+class Coordinator: NSObject, UIScrollViewDelegate {
+    func viewForZooming(in scrollView: UIScrollView) -> UIView? {
+        return nil
+    }
+}
+
+func makeCoordinator() -> Coordinator {
+    Coordinator()
 }

@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DF82C7B77A41213B2FA98EF5C8A302BAACDE5598",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF82C7B77A41213B2FA98EF5C8A302BAACDE5598" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "41684AA7-BFAA-4AE7-B441-CAA13121B461",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF82C7B77A41213B2FA98EF5C8A302BAACDE5598" : "TRICARE%20West\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TRICARE West",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TRICARE West.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tricarewest1\/TRICARE-West.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF82C7B77A41213B2FA98EF5C8A302BAACDE5598"
+    }
+  ]
+}

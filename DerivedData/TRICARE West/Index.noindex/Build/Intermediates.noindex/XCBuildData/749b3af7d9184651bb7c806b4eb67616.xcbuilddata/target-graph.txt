@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'TRICARE WestUITests' in project 'TRICARE West' (no dependencies)
+Target 'TRICARE WestUITests' in project 'TRICARE West'
+➜ Explicit dependency on target 'TRICARE West' in project 'TRICARE West'
+Target 'TRICARE WestUITests' in project 'TRICARE West'
+➜ Explicit dependency on target 'TRICARE West' in project 'TRICARE West'
+Target 'TRICARE WestTests' in project 'TRICARE West' (no dependencies)
+Target 'TRICARE WestTests' in project 'TRICARE West'
+➜ Explicit dependency on target 'TRICARE West' in project 'TRICARE West'
+Target 'TRICARE WestTests' in project 'TRICARE West'
+➜ Explicit dependency on target 'TRICARE West' in project 'TRICARE West'
+Target 'TRICARE West' in project 'TRICARE West' (no dependencies)
+Target 'TRICARE West' in project 'TRICARE West' (no dependencies)

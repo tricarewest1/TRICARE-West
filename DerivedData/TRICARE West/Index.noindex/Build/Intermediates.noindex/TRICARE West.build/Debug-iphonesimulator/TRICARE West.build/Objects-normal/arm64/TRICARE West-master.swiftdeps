@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "cb698f826fa7c63decfe9de02bd9b65a8e2bc2e249845f946f6ca5a46e484f4a"
+build_start_time: [1742932053, 601419000]
+build_end_time: [1742932053, 822733000]
+inputs:
+  ? "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphonesimulator/TRICARE West.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1742931426, 849142386]
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/TRICARE West/ContentView.swift": [1742567247, 525307600]
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/TRICARE West/TRICARE_WestApp.swift": [1736877669, 524670124]

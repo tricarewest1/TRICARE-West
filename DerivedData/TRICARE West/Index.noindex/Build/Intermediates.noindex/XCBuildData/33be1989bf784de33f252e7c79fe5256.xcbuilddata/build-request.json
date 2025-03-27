@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "54af8ac5f8f7874ca2df5926f48a5caf7b1ee67f97146a28169b469fe0771993"
+    }
+  ],
+  "containerPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/TRICARE West.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Products",
+      "pchPath" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

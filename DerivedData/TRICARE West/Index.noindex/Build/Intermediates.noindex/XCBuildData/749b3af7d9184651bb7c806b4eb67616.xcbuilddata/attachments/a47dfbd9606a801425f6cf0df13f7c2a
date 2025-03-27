@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphoneos/TRICARE WestTests.build/Objects-normal/arm64/TRICARE WestTests-master.d",
+    "diagnostics" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphoneos/TRICARE WestTests.build/Objects-normal/arm64/TRICARE WestTests-master.dia",
+    "emit-module-dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphoneos/TRICARE WestTests.build/Objects-normal/arm64/TRICARE WestTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphoneos/TRICARE WestTests.build/Objects-normal/arm64/TRICARE WestTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Index.noindex/Build/Intermediates.noindex/TRICARE West.build/Debug-iphoneos/TRICARE WestTests.build/Objects-normal/arm64/TRICARE WestTests-master.swiftdeps"
+  },
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/TRICARE WestTests/TRICARE_WestTests.swift" : {
+
+  }
+}

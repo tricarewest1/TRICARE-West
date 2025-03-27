@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master.swiftconstvalues",
+    "dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master.d",
+    "diagnostics" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master.dia",
+    "emit-module-dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE West-master.swiftdeps"
+  },
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/TRICARE West/ContentView.swift" : {
+    "index-unit-output-path" : "/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/bryanmarosch/Documents/Xcode/TRICARE West/TRICARE West/TRICARE_WestApp.swift" : {
+    "index-unit-output-path" : "/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE_WestApp.o",
+    "llvm-bc" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE_WestApp.bc",
+    "object" : "/Users/bryanmarosch/Documents/Xcode/TRICARE West/DerivedData/TRICARE West/Build/Intermediates.noindex/TRICARE West.build/Release-iphonesimulator/TRICARE West.build/Objects-normal/arm64/TRICARE_WestApp.o"
+  }
+}
